@@ -65,9 +65,17 @@ p {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
-  &hover {
+  &:hover {
     color: silver;
     text-decoration: none;
+  }
+}
+
+li .header-list {
+  color: #fff !important;
+  font-weight: bold;
+  &:hover {
+    color: silver !important;
   }
 }
 
