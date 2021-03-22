@@ -23,6 +23,14 @@ textarea {
   margin-bottom: 10px;
 }
 
+.label-form {
+  margin-top: 5px;
+}
+
+.btn-form {
+  margin-top: 10px;
+}
+
 /* タイポグラフィ */
 
 h1, h2, h3, h4, h5, h6 {
@@ -77,6 +85,10 @@ li .header-list {
   &:hover {
     color: silver !important;
   }
+}
+
+#dropdown-title {
+  background-color: teal;
 }
 
 /* デバッグウインドウ */
